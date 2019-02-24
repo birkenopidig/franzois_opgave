@@ -1,0 +1,272 @@
+[
+    {
+        "id": 10,
+        "kategori": "forretter",
+        "navn": "Salada Lyonaise",
+        "pris": 49,
+        "kort": "Lækkert, godt og luksus!",
+        "lang": "Det er bare det lækreste i hele verden udover Jagger Burger",
+        "oprindelse": "Frankig",
+        "billede": "salade_lyonnaise"
+},
+    {
+        "id": 12,
+        "kategori": "forretter",
+        "navn": "Fransk Bondesalat",
+        "pris": 49,
+        "kort": "Lidt kedelig, men meget lækker",
+        "lang": "Det er meget vegetarisk og lidt kedeligt, men sundt på den gode måde",
+        "oprindelse": "Frankig",
+        "billede": "fransk_bondesalat"
+},
+    {
+        "id": 14,
+        "kategori": "forretter",
+        "navn": "Cæsar Salat",
+        "pris": 49,
+        "kort": "Bare basic, du kender",
+        "lang": "Alle kender cæsarsalaten, du behøver ikke spørge hvad det er",
+        "oprindelse": "Frankig",
+        "billede": "ceasar_salad"
+},
+    {
+        "id": 17,
+        "kategori": "forretter",
+        "navn": "Gratineret Artiskokker",
+        "pris": 79,
+        "kort": "En af vores finere retter",
+        "lang": "En god ret, meget lækker, lidt dyr",
+        "oprindelse": "Frankig",
+        "billede": "gratineret_artiskok"
+},
+    {
+        "id": 19,
+        "kategori": "forretter",
+        "navn": "Egg Florentine",
+        "pris": 69,
+        "kort": "Bare for at være lidt fin",
+        "lang": "Lækker æg, alle elsker æg, så hvorfor ikke prøve det her når du nu er igang?",
+        "oprindelse": "Frankig",
+        "billede": "egg_florentine"
+},
+    {
+        "id": 2,
+        "kategori": "hovedretter",
+        "navn": "Boeuf Bourguignon",
+        "pris": 99,
+        "kort": "Slet ikke for vegetarer",
+        "lang": "Smager så godt, at du skider i bukserne af glæde",
+        "oprindelse": "Frankrig",
+        "billede": "boeuf_bourguignon"
+},
+    {
+        "id": 21,
+        "kategori": "hovedretter",
+        "navn": "Rørt tatar med ovnbagte fritter",
+        "pris": 89,
+        "kort": "Tja, det jo bare råt kød",
+        "lang": "Spis dette på eget ansvar, vi har haft mange kunder med dårlig mave",
+        "oprindelse": "Frankig",
+        "billede": "tartar"
+},
+    {
+        "id": 25,
+        "kategori": "hovedretter",
+        "navn": "Coq au Vin",
+        "pris": 179,
+        "kort": "God ret, god kylling, god pris",
+        "lang": "Smager bare så godt siger alle mine venner",
+        "oprindelse": "Frankrig",
+        "billede": "coq_au_vin"
+},
+    {
+        "id": 34,
+        "kategori": "hovedretter",
+        "navn": "Burger Au Franz",
+        "pris": 109,
+        "kort": "Bedste burger i byen",
+        "lang": "Kom og smag vores bedste burger i byen, den er bare vold lækker",
+        "oprindelse": "Frankrig",
+        "billede": "Burger"
+},
+    {
+        "id": 36,
+        "kategori": "hovedretter",
+        "navn": "Moules Frites",
+        "pris": 199,
+        "kort": "Til alle jer muslingespisere",
+        "lang": "Det her er bare godt, i vil elske vores lækre muslinger",
+        "oprindelse": "Frankrig",
+        "billede": "moules_frites"
+},
+    {
+        "id": 38,
+        "kategori": "hovedretter",
+        "navn": "Fransk Løgsuppe",
+        "pris": 139,
+        "kort": "Egentlig ulækkert",
+        "lang": "Lad være",
+        "oprindelse": "Frankrig",
+        "billede": "fransk_loegsuppe"
+},
+    {
+        "id": 41,
+        "kategori": "hovedretter",
+        "navn": "Quiche Lorraine",
+        "pris": 149,
+        "kort": "Fedt navn, dårlig mad",
+        "lang": "God til alle partyboys and girls der skal på klubben efter",
+        "oprindelse": "Frankrig",
+        "billede": "quiche_lorraine"
+},
+    {
+        "id": 42,
+        "kategori": "desserter",
+        "navn": "Buche De Noel",
+        "pris": 79,
+        "kort": "Vold luksus dessert",
+        "lang": "Det her er det bedste ",
+        "oprindelse": "Frankrig",
+        "billede": "buche_de_noel"
+},
+    {
+        "id": 43,
+        "kategori": "desserter",
+        "navn": "Tarte Aus Fruit Secs",
+        "pris": 69,
+        "kort": "Alligevel ret lækker tærte",
+        "lang": "Halvdyr pris, men du skal ikke lade dig narre. Denne tærte sparker røv.",
+        "oprindelse": "Frankrig",
+        "billede": "tarte_au_fruits"
+},
+    {
+        "id": 44,
+        "kategori": "desserter",
+        "navn": "Pallets Bretons",
+        "pris": 89,
+        "kort": "Navnet siger det hele",
+        "lang": "Hvis du elsker dessert, skal du prøve dette. Det er bare så lækkert",
+        "oprindelse": "Frankrig",
+        "billede": "bretons"
+},
+    {
+        "id": 45,
+        "kategori": "desserter",
+        "navn": "Pavlova i melon",
+        "pris": 49,
+        "kort": "Er du fruity idag?",
+        "lang": "Hvis du er lidt fruity, frisk og frejdig, skal du have vores melon",
+        "oprindelse": "Frankrig",
+        "billede": "pavlova"
+},
+    {
+        "id": 52,
+        "kategori": "desserter",
+        "navn": "Financier",
+        "pris": 39,
+        "kort": "Problemer med finanserne?",
+        "lang": "Køb denne og bliv i rigtigt pengehumør",
+        "oprindelse": "Frankrig",
+        "billede": "financier"
+},
+    {
+        "id": 54,
+        "kategori": "desserter",
+        "navn": "Pralinétærte med Æble",
+        "pris": 59,
+        "kort": "Lidt bedre end de andre tærter",
+        "lang": "Denne tærte er bare den bedste tærte du kan få syd for Grønland",
+        "oprindelse": "Frankrig",
+        "billede": "pralini"
+},
+    {
+        "id": 55,
+        "kategori": "drikkevarer",
+        "navn": "Øl",
+        "pris": 55,
+        "kort": "Skal du være stiv?",
+        "lang": "Køb 10 øl få den 11. gratis",
+        "oprindelse": "Frankrig",
+        "billede": "oel"
+},
+    {
+        "id": 60,
+        "kategori": "drikkevarer",
+        "navn": "Juice",
+        "pris": 19,
+        "kort": "Frugtigt",
+        "lang": "Meget lækker juice, direkte fra karton",
+        "oprindelse": "Frankrig",
+        "billede": "juice"
+},
+    {
+        "id": 62,
+        "kategori": "drikkevarer",
+        "navn": "Coca Cola",
+        "pris": 39,
+        "kort": "Bare Coca Cola",
+        "lang": "Hvis du ikke har lyst til Fanta",
+        "oprindelse": "Frankrig",
+        "billede": "cocacola"
+},
+    {
+        "id": 65,
+        "kategori": "drikkevarer",
+        "navn": "Rødvin, glas",
+        "pris": 49,
+        "kort": "God og billig",
+        "lang": "Lige fra kartonen i Netto",
+        "oprindelse": "Frankrig",
+        "billede": "roedvin"
+},
+    {
+        "id": 76,
+        "kategori": "drikkevarer",
+        "navn": "Hvidvin, glas",
+        "pris": 39,
+        "kort": "God og dyr",
+        "lang": "Lige fra kartonen i Irma",
+        "oprindelse": "Frankrig",
+        "billede": "hvidvin"
+},
+    {
+        "id": 77,
+        "kategori": "sideorders",
+        "navn": "Snegle",
+        "pris": 29,
+        "kort": "Halvklamt",
+        "lang": "Har aldrig forstået folk vil spise snegle",
+        "oprindelse": "Frankrig",
+        "billede": "snegle"
+},
+    {
+        "id": 78,
+        "kategori": "sideorders",
+        "navn": "Frølår",
+        "pris": 19,
+        "kort": "Lige så klamt som snegle",
+        "lang": "Lige så klamt som snegle, men med lidt mere spring i",
+        "oprindelse": "Frankrig",
+        "billede": "froelaar"
+},
+    {
+        "id": 79,
+        "kategori": "sideorders",
+        "navn": "Franske Fritter",
+        "pris": 49,
+        "kort": "Bare pomfritter",
+        "lang": "Det er bare pomfritter",
+        "oprindelse": "Frankrig",
+        "billede": "french_fries"
+},
+    {
+        "id": 80,
+        "kategori": "sideorders",
+        "navn": "Hvidløgsbrød",
+        "pris": 29,
+        "kort": "Hvis du er træt af almindelig brød",
+        "lang": "Det bare helt almindelig hvidløgsbrød varmet i ovnen",
+        "oprindelse": "Frankrig",
+        "billede": "hvidloegs_broed"
+}
+]
